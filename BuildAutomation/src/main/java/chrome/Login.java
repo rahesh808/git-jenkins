@@ -1,5 +1,5 @@
 	package chrome;
-import time
+import time;
 
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.chrome.ChromeDriver;
